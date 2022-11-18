@@ -1,0 +1,4 @@
+﻿  DocSummary.cpp
+C:\Users\skyec\source\repos\Week4New\Week4New\DocSummary.cpp(26,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skyec\source\repos\Week4New\Week4New\DocSummary.cpp(31,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Week4New.vcxproj -> C:\Users\skyec\source\repos\Week4New\x64\Debug\Week4New.exe
